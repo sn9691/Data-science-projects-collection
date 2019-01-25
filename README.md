@@ -1,2 +1,5 @@
 # kaggle-submissions
-for practice
+## List of competition submissions in Kaggle
+
+1) Titanic
+
