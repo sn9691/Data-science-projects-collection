@@ -231,5 +231,5 @@ for train_index, test_index in skf.split(X,y):
 kaggle = pd.DataFrame({'PassengerId': test['PassengerId'], 'Survived': pred})
 kaggle.to_csv('submission_2.csv', index=False)
 
-"""# Using Neural Network (Keras)"""
+
 
