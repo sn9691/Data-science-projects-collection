@@ -10,6 +10,8 @@ The missing cabin data was predicted using a simple Decision Tree because too mu
 
 The predictions were made using two models: Random Forest and Support Vector Machine.
 
-The Random Forest, tuned using GridSearchCV, scored an accuracy of 77.8%.
-The Support Vector Machine, tuned using GridSearchCV, scored an accuracy of 79.9%.
+The Random Forest, tuned using GridSearchCV (CV =10), scored an accuracy of 77.8%.
+The Support Vector Machine, tuned using GridSearchCV (CV =10), scored an accuracy of 79.9%.
 The kernel used for SVM was linear since this is a binary classification problem.
+
+In both models, Stratified K-fold Cross Validation, with K= 10.
