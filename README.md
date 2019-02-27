@@ -6,7 +6,9 @@ Self made projects on machine learning
 
 
 2> Student scores prediction (Kaggle dataset): Predicting whether a student passes or fails using K Nearest Neighbors algorithm
+
 https://www.kaggle.com/sn9691/student-score-prediction-using-k-nearest-neighbors?scriptVersionId=10983992
+
 
 
 3> Teleco customer churn: Analyzing and predicting customer churn data from an IBM sample dataset 
