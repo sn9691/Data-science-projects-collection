@@ -11,4 +11,6 @@ https://www.kaggle.com/sn9691/student-score-prediction-using-k-nearest-neighbors
 
 
 
-3> Teleco customer churn: Analyzing and predicting customer churn data from an IBM sample dataset 
+3> Teleco customer churn: Analyzing and predicting customer churn data from an IBM sample dataset
+
+https://www.kaggle.com/sn9691/telco-cutomer-churn-eda-and-machine-learning
