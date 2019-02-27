@@ -1,2 +1,3 @@
 # ML-projects
-Self Projects on ML
+Self made projects on machine learning
+
