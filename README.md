@@ -1,5 +1,4 @@
-# ML-projects
-Self made projects on machine learning
+# About:
 
 * Titanic survival challenge (Kaggle): 79% accuracy achieved through modelling an SVM classifier
 https://www.kaggle.com/c/titanic
