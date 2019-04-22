@@ -9,5 +9,5 @@ https://www.kaggle.com/spscientist/students-performance-in-exams
 * Teleco customer churn (Kaggle dataset): Analyzing and predicting customer churn data from an IBM sample dataset, applying and comparing  various linear regression models to find best fit
 https://www.kaggle.com/blastchar/telco-customer-churn
 
-* Predict flight ticket prices (MachineHack Hackathon): Analyzing and predicting flight ticket prices using K Nearest Neighbors
+* Predict flight ticket prices (MachineHack Hackathon): Analyzing and predicting flight ticket prices using Random Forest
 https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
