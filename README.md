@@ -1,4 +1,9 @@
 # About:
+Welcome! I'm a data scientist in self-training and this repository is a collection of all the projects I have ever done to learn and grow in this field. I'm seeking to improve over time and hopefully this repository will be a testament to that. Please have a look!
+
+
+
+# Index:
 
 * Titanic survival challenge (Kaggle): 79% accuracy achieved through modelling an SVM classifier
 https://www.kaggle.com/c/titanic
