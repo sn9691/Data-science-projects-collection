@@ -16,3 +16,5 @@ https://www.kaggle.com/blastchar/telco-customer-churn
 
 * Predict flight ticket prices (MachineHack Hackathon): Analyzing and predicting flight ticket prices using Random Forest
 https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
+
+* Fandango Movie Ratings: Analyzing fandango movie ratings from 2016 and 2015 and determining possibility of bias before and the changes that occurred later.
