@@ -19,3 +19,5 @@ https://www.kaggle.com/blastchar/telco-customer-churn
 https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
 
 * Fandango movie ratings: Analysing fandango movie ratings from 2016 - 2015 and investigating movie ratings bias based on the findings of an investigative journalist.
+
+* Half time analysis of Super Bowls in 2018: Analysing the various team, performances and musicians in 2018 Super Bowls using Sqlite in Jupyter Notebook
