@@ -1,5 +1,5 @@
 # About:
-Welcome! I'm a data scientist in self-training and this repository is a collection of all the projects I have ever done to learn and grow in this field.
+Welcome! I'm a data scientist in training and this repository is a collection of all the projects I have ever done to learn and grow in this field.
 The list below is sorted chronologically.
 
 
