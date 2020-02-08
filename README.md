@@ -1,6 +1,6 @@
 # About:
 Welcome! I'm data scientist and this repository is a collection of all the projects I have ever done to learn and grow in this field.
-I started out by teaching myself in my spare time when I was sorking as a software developer; I have now received formal education in the form of PGP certification in Data Science from INSOFE, Hyderabd. All projects other than the one done in INSOFE were done by me when I was just starting out in this field. For more info, please check out my CV: https://drive.google.com/file/d/1KqaH5AtJhq4YDIB4TPhep7_RJn4Eqr8T/view?usp=sharing
+I started out by teaching myself in my spare time when I was sorking as a software developer; I have now received formal education in the form of PGP certification in Data Science from INSOFE, Hyderabd. All projects other than the one done in INSOFE were done by me when I was just starting out in this field.
 
 
 
