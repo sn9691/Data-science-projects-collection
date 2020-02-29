@@ -15,7 +15,7 @@ Steps taken:
 * Iteratively viewed top ranking words and identified more noise to be added to the list of stop words and vectorized via tfidf.
 * Conducted Principal Component Analysis to reduce feature length from ~8100+ to 175 while minimising loss of information.
 * Split the data via stratified splitting to maintain class proportions.
-* Applied Logistic Regression and conducted hyperparameter tuning to achieve optimal AUC scores on both train and test sets and reduce overfitting.
+* Applied Logistic Regression and conducted hyperparameter tuning to achieve optimal AUC scores on both train and test sets and reduce overfitting. Also made changes to stop words list iteratively to achieve the same.
 * Extracted top 20 keywords associated with each class.
 
 #### Predict demand of food products (INSOFE hackathon)
