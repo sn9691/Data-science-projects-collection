@@ -6,20 +6,11 @@ https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs
 
 
 # Index:
-#### Predict demand of food products (INSOFE final project Hackathon): End to end data science project required for qualifying in the program completion of INSOFE.
+#### Machine Learning classifier to identify Venture Capital and Non Venture Capital firms from company url (FactSet hackathon)
+Built a script to visit company url, scrape data and apply Natural Language Processing techniques and clustering to identify and differentiate between Venture Capital firms and Private companies and extract keywords associated with each to improve query detection via google search.
 
-Problem statement: "A large company that manufactures eatables, delivers them through a group of suppliers to retailers of different kinds all over the country. One of the company’s recent sustainable initiatives was to sell eatable products with no preservatives.
-These consumables have a shelf life of one week. The company, to ensure the quality of its products on retailers' shelves, creates a
-program to buy back the remaining products on the shelves of the retailers post expiry (one week). This has significantly increased the company's operation costs and is also affecting its gross margins. The company has hired you as a data science consultant and provides you with 5 weeks of data. You are now supposed to predict the demand for various products across for the next two weeks."
+#### Predict demand of food products (INSOFE hackathon)
+EDA and machine learning to optimize food stock revenue loss by studying product and channel behaviour to predict just the appropriate amount of products to manufacture and detect loss making products.
 
 #### S&P 500 stock data analysis and machine learning
 Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysing stock trends and applying a machine learning algorithm to predict whether to buy stocks or not.
-
-#### How severe can an airplane accident be? (HackerEarth)
-https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/machine-learning/how-severe-can-an-airplane-accident-be-03e7a3f1/
-
-Gradient Boosting Classifier model
-
-Evaluation criteria: F1 score
-
-Leaderboard score: 84.3
