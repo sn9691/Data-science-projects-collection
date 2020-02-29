@@ -6,9 +6,7 @@ Since college, I have been in love with coding. It was there that I found out ab
 In my two years (as of writing this) of experience in data science, I have acquired skills and knowledge in:
 R, Python, SQL, Java, Machine Learning, Deep Learning, RDBMS and big data tools like Hadoop, Spark, Hive and Impala.
 
-# My Resume:
-https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs
-
+# My [Resume](https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs)
 
 # Projects:
 #### Logistic regression classifier to identify Venture Capital and Non Venture Capital firms from company url (FactSet hackathon)
@@ -28,4 +26,3 @@ EDA and machine learning to optimize food stock revenue loss by studying product
 
 #### S&P 500 stock data analysis and machine learning
 Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysed stock trends and applied machine learning to automate decision making on whether to buy, sell or hold a given company's stocks.
-[GitHub](http://github.com)
