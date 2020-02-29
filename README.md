@@ -6,7 +6,7 @@ Since college, I have been in love with coding. It was there that I found out ab
 In my two years (as of writing this) of experience in data science, I have acquired skills and knowledge in:
 R, Python, SQL, Java, Machine Learning, Deep Learning, RDBMS and big data tools like Hadoop, Spark, Hive and Impala.
 
-# My [Resume](https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs)
+#### [Click to see my resume](https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs)
 
 
 # Projects:
