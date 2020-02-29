@@ -23,9 +23,3 @@ Gradient Boosting Classifier model
 Evaluation criteria: F1 score
 
 Leaderboard score: 84.3
-
-#### Predict flight ticket prices (MachineHack): Data mining the given dataset using statistical tools and analysis. Making predictions using a random forest, evaluating and fine tuning the model to improve prediction accuracy.
-https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
-
-#### Teleco customer churn (Kaggle): Analysing and modelling an IBM sample dataset. Comparing performances of logistic regression, k nearest neighbors, decision tree and random forest models.
-https://www.kaggle.com/blastchar/telco-customer-churn
