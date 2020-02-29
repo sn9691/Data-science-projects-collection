@@ -13,4 +13,4 @@ Built a script to visit company url, scrape data and apply Natural Language Proc
 EDA and machine learning to optimize food stock revenue loss by studying product and channel behaviour to predict just the appropriate amount of products to manufacture and detect loss making products.
 
 #### S&P 500 stock data analysis and machine learning
-Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysing stock trends and applying a machine learning algorithm to predict whether to buy stocks or not.
+Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysing stock trends and applying a machine learning algorithm to predict whether to decide whether to buy, sell or hold a given company's stocks.
