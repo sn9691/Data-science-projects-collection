@@ -28,3 +28,4 @@ EDA and machine learning to optimize food stock revenue loss by studying product
 
 #### S&P 500 stock data analysis and machine learning
 Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysed stock trends and applied machine learning to automate decision making on whether to buy, sell or hold a given company's stocks.
+[GitHub](http://github.com)
