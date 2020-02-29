@@ -1,12 +1,16 @@
-# About:
-Welcome! I'm data scientist and this repository is a collection of all the projects I have ever done to learn and grow in this field.
-I started out by teaching myself in my spare time when I was sorking as a software developer; I have now received formal education in the form of PGP certification in Data Science from INSOFE, Hyderabd. Here is a list of some projects I have done till date.
+Hi! I'm a data scientist and this my project repository.
 
-My Resume:
+# About me:
+I am a formally trained, certified data scientist from INSOFE, Hyderabad with a year of experience as a Software Developer in Standard Chartered GBS, Bengaluru.
+Since college, I have been in love with coding. It was there that I found out about data science and AI and I've been actively learning and working in this field ever since.
+In my two years (as of writing this) of experience in data science, I have acquired skills and knowledge in:
+R, Python, SQL, Java, Machine Learning, Deep Learning, RDBMS and big data tools like Hadoop, Spark, Hive and Impala.
+
+# My Resume:
 https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs
 
 
-# Index:
+# Projects:
 #### Logistic regression classifier to identify Venture Capital and Non Venture Capital firms from company url (FactSet hackathon)
 Built a script to visit company url, scrape data and apply Natural Language Processing techniques and clustering to identify and differentiate between Venture Capital firms and Private companies and extract keywords associated with each to improve query detection via google search.
 Steps taken:
