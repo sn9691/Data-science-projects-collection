@@ -22,7 +22,7 @@ Steps taken:
 * Extracted top 20 keywords associated with each class.
 
 #### [Optimize food stock production by predicting demand (INSOFE hackathon)](https://github.com/sn9691/ML-projects/blob/master/food_stock_demand_prediction.ipynb)
-EDA and machine learning to optimize food stock revenue loss by studying product and channel behaviour to predict just the appropriate amount of products to manufacture and detect loss making products.
+Project on predicting the appropriate demand of different products by analysing sources and seller channels to minimise losses incurred due to buyback/wastage. This was my qualifying project used for graduating from INSOFE.
 
 #### [S&P 500 stock data analysis and machine learning](https://github.com/sn9691/ML-projects/blob/master/stock_analysis_and_prediction.ipynb)
 Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysed stock trends and applied machine learning to automate decision making on whether to buy, sell or hold a given company's stocks.
