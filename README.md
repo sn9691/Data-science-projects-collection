@@ -24,5 +24,5 @@ Steps taken:
 #### [Optimize production of food products and minimize loss(INSOFE hackathon)](https://github.com/sn9691/ML-projects/blob/master/food_stock_demand_prediction.ipynb)
 EDA and machine learning to optimize food stock revenue loss by studying product and channel behaviour to predict just the appropriate amount of products to manufacture and detect loss making products.
 
-#### S&P 500 stock data analysis and machine learning
+#### [S&P 500 stock data analysis and machine learning](https://github.com/sn9691/ML-projects/blob/master/stock_analysis_and_prediction.ipynb)
 Collected S&P 500 stock data by scraping ticker labels from Wikipedia, analysed stock trends and applied machine learning to automate decision making on whether to buy, sell or hold a given company's stocks.
