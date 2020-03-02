@@ -21,7 +21,7 @@ Steps taken:
 * Applied Logistic Regression and conducted hyperparameter tuning to achieve optimal AUC scores on both train and test sets and reduce overfitting. Also made changes to stop words list iteratively to achieve the same.
 * Extracted top 20 keywords associated with each class.
 
-#### [Optimize production of food products and minimize loss(INSOFE hackathon)](https://github.com/sn9691/ML-projects/blob/master/food_stock_demand_prediction.ipynb)
+#### [Optimize product production by predicting demand (INSOFE hackathon)] (https://github.com/sn9691/ML-projects/blob/master/food_stock_demand_prediction.ipynb)
 EDA and machine learning to optimize food stock revenue loss by studying product and channel behaviour to predict just the appropriate amount of products to manufacture and detect loss making products.
 
 #### [S&P 500 stock data analysis and machine learning](https://github.com/sn9691/ML-projects/blob/master/stock_analysis_and_prediction.ipynb)
