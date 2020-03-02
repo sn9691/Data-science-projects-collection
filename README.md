@@ -9,7 +9,7 @@ R, Python, SQL, Java, Machine Learning, Deep Learning, RDBMS and big data tools 
 ### [Check out my resume!](https://drive.google.com/open?id=1hUGtWl4XZn0_THlC8T0OgBND9zVArIGpif-S8_xQNYs)
 
 # Projects:
-#### Logistic regression classifier to identify Venture Capital and Non Venture Capital firms from company url (FactSet hackathon)
+#### [Logistic regression classifier to identify Venture Capital and Non Venture Capital firms from company url (FactSet hackathon)](https://github.com/sn9691/ML-projects/blob/master/factset_assignment.ipynb)
 Built a script to visit company url, scrape data and apply Natural Language Processing techniques and clustering to identify and differentiate between Venture Capital firms and Private companies and extract keywords associated with each to improve query detection via google search.
 Steps taken:
 * Found out the company type from it's name by identifying keywords such as LLC, LLP, Inc etc. and added it as feature.
